@@ -61,9 +61,9 @@
 // }
 
 // WHILE
-var arr = [];
-while (arr.length < 5) {
-   arr.push('Camilo');
-}
-console.log(arr);
+// var arr = [];
+// while (arr.length < 5) {
+//    arr.push('Camilo');
+// }
+// console.log(arr);
 
